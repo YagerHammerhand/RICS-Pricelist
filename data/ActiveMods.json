@@ -1,17 +1,107 @@
 {
-  "exportedAt": "2026-04-14T19:33:36.9341276Z",
-  "totalActiveMods": 11,
+  "exportedAt": "2026-04-25T11:46:16.4709331Z",
+  "totalActiveMods": 156,
   "mods": [
     {
       "author": "Captolamia",
-      "name": "[CAP] Rimworld Interactive Chat Service DEV VERSION",
-      "steamId": null,
+      "name": "[CAP] Rimworld Interactive Chat Service",
+      "steamId": "3603078790",
       "version": null
     },
     {
-      "author": "Captolamia",
-      "name": "[CAP] Thunder Snow",
-      "steamId": null,
+      "author": "FrozenSnowFox",
+      "name": "[FSF] Better Exploration Loot",
+      "steamId": "3526957922",
+      "version": null
+    },
+    {
+      "author": "FrozenSnowFox",
+      "name": "[FSF] Complex Jobs",
+      "steamId": "2069684319",
+      "version": null
+    },
+    {
+      "author": "JangoD'soul,  Criz",
+      "name": "[JDS] Star Wars - Mandalorian Custom Armor Sets",
+      "steamId": "3513298369",
+      "version": null
+    },
+    {
+      "author": "JangoD'soul,  Criz",
+      "name": "[JDS] StarWars - Armory",
+      "steamId": "3511954303",
+      "version": null
+    },
+    {
+      "author": "JangoD'soul,  Criz",
+      "name": "[JDS] StarWars - Phase I Clone Armor",
+      "steamId": "3512888013",
+      "version": null
+    },
+    {
+      "author": "JangoD'soul,  Criz",
+      "name": "[JDS] StarWars - Phase II Clone Armor",
+      "steamId": "3512889223",
+      "version": "1.6.2"
+    },
+    {
+      "author": "JangoD'soul,  Criz",
+      "name": "[JDS] StarWars - The Separatist Droid Army",
+      "steamId": "3276499495",
+      "version": null
+    },
+    {
+      "author": "JangoD'soul,  Criz",
+      "name": "[JDS] The Forge - Anvil",
+      "steamId": "3511910152",
+      "version": null
+    },
+    {
+      "author": "ELUN982697019",
+      "name": "[MUS]太空基地家具Space Base Furniture",
+      "steamId": "3523916780",
+      "version": null
+    },
+    {
+      "author": "seobongzu",
+      "name": "[sbz] Fridge",
+      "steamId": "3486264784",
+      "version": null
+    },
+    {
+      "author": "seobongzu",
+      "name": "[sbz] Neat Storage",
+      "steamId": "3416243474",
+      "version": null
+    },
+    {
+      "author": "Killathon",
+      "name": "ABF: Artificial Beings Framework",
+      "steamId": "3284097810",
+      "version": null
+    },
+    {
+      "author": "Killathon",
+      "name": "ABF: Synstructs Core",
+      "steamId": "3288463094",
+      "version": null
+    },
+    {
+      "author": "Andreas Pardeike",
+      "name": "Achtung!",
+      "steamId": "730936602",
+      "version": "4.1.8.0"
+    },
+    {
+      "author": "Soul, Phaneron, Bradson",
+      "name": "Adaptive Storage Framework",
+      "steamId": "3033901359",
+      "version": null
+    },
+    {
+      "author": "UnlimitedHugs",
+      "name": "Allow Tool",
+      "steamId": "761421485",
       "version": null
     },
     {
@@ -21,10 +111,52 @@
       "version": null
     },
     {
-      "author": "Aleksey",
-      "name": "Better Stacktraces",
-      "steamId": "3541579129",
+      "author": "Zoarak963",
+      "name": "Anomaly Research Asteroid",
+      "steamId": "3527726648",
       "version": null
+    },
+    {
+      "author": "Broms",
+      "name": "Asteroid Mineral Scanner",
+      "steamId": "3536585361",
+      "version": null
+    },
+    {
+      "author": "LingLuo",
+      "name": "Auto Dissector",
+      "steamId": "3438175685",
+      "version": null
+    },
+    {
+      "author": "Defi",
+      "name": "Auto-Cut Blight - 1.6",
+      "steamId": "3520167264",
+      "version": null
+    },
+    {
+      "author": "Poncho",
+      "name": "Automatic Hydroponics",
+      "steamId": "3528490718",
+      "version": null
+    },
+    {
+      "author": "RedMattis",
+      "name": "Big and Small - Framework",
+      "steamId": "2925432336",
+      "version": "3.0.0.0"
+    },
+    {
+      "author": "AUTOMATIC",
+      "name": "Bionic icons",
+      "steamId": "1677616980",
+      "version": null
+    },
+    {
+      "author": "Nalzurin,  Athitei,  Zeues",
+      "name": "Bionix Automator",
+      "steamId": "3357286019",
+      "version": "2.0.0"
     },
     {
       "author": "Ludeon Studios",
@@ -33,9 +165,189 @@
       "version": null
     },
     {
+      "author": "Zaljerem",
+      "name": "Biotech Cloning (Continued)",
+      "steamId": "3348781223",
+      "version": "1.2.3"
+    },
+    {
+      "author": "Defi",
+      "name": "Blueprints Forked - 1.6",
+      "steamId": "3525001145",
+      "version": null
+    },
+    {
+      "author": "Uuugggg",
+      "name": "Build From Inventory - Continued",
+      "steamId": "3534185281",
+      "version": null
+    },
+    {
+      "author": "Darknote",
+      "name": "Bunk Beds",
+      "steamId": "2961752749",
+      "version": null
+    },
+    {
+      "author": "TheCatLover366",
+      "name": "Cat's Boots and Gloves",
+      "steamId": "3552813398",
+      "version": null
+    },
+    {
+      "author": "void",
+      "name": "Character Editor",
+      "steamId": "1874644848",
+      "version": "1.6.1"
+    },
+    {
+      "author": "Captain Muscles (Original), Khobs, Kat, sklmqaq0991 (Chinese Translation)",
+      "name": "Chill the Fork Out",
+      "steamId": "3523235444",
+      "version": null
+    },
+    {
+      "author": "CrashM",
+      "name": "CM Color Coded Mood Bar [1.1+]",
+      "steamId": "2006605356",
+      "version": null
+    },
+    {
+      "author": "avilmask",
+      "name": "Common Sense",
+      "steamId": "1561769193",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Core",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Broms",
+      "name": "Deep Orbit",
+      "steamId": "3533793836",
+      "version": null
+    },
+    {
+      "author": "UnlimitedHugs",
+      "name": "Defensive Positions",
+      "steamId": "761219125",
+      "version": null
+    },
+    {
+      "author": "Woolyung",
+      "name": "Do The Rituals Yourselves",
+      "steamId": "3511385838",
+      "version": null
+    },
+    {
+      "author": "Captain Muscles (Nathan Harbour),  Kat",
+      "name": "Do Your F****** Research",
+      "steamId": "3523205869",
+      "version": null
+    },
+    {
+      "author": "Jecrell, lbmaian, jebjordan",
+      "name": "Doors Expanded",
+      "steamId": "3532342422",
+      "version": null
+    },
+    {
+      "author": "Tachi",
+      "name": "Doors Expanded Star Wars edition",
+      "steamId": "3550435517",
+      "version": null
+    },
+    {
+      "author": "telardo",
+      "name": "DragSelect",
+      "steamId": "2599942235",
+      "version": "1.6.0.2"
+    },
+    {
+      "author": "Dubwise",
+      "name": "Dubs Mint Menus",
+      "steamId": "1446523594",
+      "version": "1.3.1247"
+    },
+    {
+      "author": "alite",
+      "name": "EBSG Framework",
+      "steamId": "3112549163",
+      "version": null
+    },
+    {
+      "author": "Aelanna",
+      "name": "Eccentric Tech - Advanced Shields",
+      "steamId": "2591721581",
+      "version": "1.5.0"
+    },
+    {
+      "author": "Aelanna",
+      "name": "Eccentric Tech - Core",
+      "steamId": "2552623545",
+      "version": "1.5.1"
+    },
+    {
+      "author": "Aelanna",
+      "name": "Eccentric Tech - Defense Grid",
+      "steamId": "3066838686",
+      "version": "1.4.1"
+    },
+    {
+      "author": "Aelanna",
+      "name": "Eccentric Tech - Fusion Power",
+      "steamId": "2742125879",
+      "version": "1.5.1"
+    },
+    {
+      "author": "Aelanna",
+      "name": "Eccentric Tech - Spacer Furniture",
+      "steamId": "3118185542",
+      "version": "1.2.3"
+    },
+    {
+      "author": "Kosaro",
+      "name": "Fahrenheit and Celsius",
+      "steamId": "937759575",
+      "version": null
+    },
+    {
+      "author": "AobaKuma",
+      "name": "Fortification Industrial - Citadel",
+      "steamId": "2887532326",
+      "version": null
+    },
+    {
+      "author": "AobaKuma",
+      "name": "Fortifications - Industrial",
+      "steamId": "2561619583",
+      "version": null
+    },
+    {
+      "author": "AOBA",
+      "name": "Fortified Features Framework",
+      "steamId": "3498575851",
+      "version": null
+    },
+    {
+      "author": "AmCh, HappyCam, Eragon",
+      "name": "Gene Fabrication",
+      "steamId": "3352773112",
+      "version": null
+    },
+    {
+      "author": "NanoCE",
+      "name": "Glass+Lights",
+      "steamId": "826153738",
+      "version": null
+    },
+    {
+      "author": "Teiwaz",
+      "name": "GTG Trader Core",
+      "steamId": "3682209120",
       "version": null
     },
     {
@@ -51,9 +363,99 @@
       "version": null
     },
     {
+      "author": "erdelf",
+      "name": "Humanoid Alien Races",
+      "steamId": "839005762",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Ideology",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Haecriver",
+      "name": "Injured Carry",
+      "steamId": "2413690575",
+      "version": null
+    },
+    {
+      "author": "Turnovus",
+      "name": "Integrated Genes",
+      "steamId": "2884115974",
+      "version": "1.7.2"
+    },
+    {
+      "author": "LTS",
+      "name": "Integrated Implants",
+      "steamId": "3223443793",
+      "version": null
+    },
+    {
+      "author": "anobs,  jecrell, contributors",
+      "name": "JecsTools Unofficial 1.6 BETA",
+      "steamId": "3524247750",
+      "version": null
+    },
+    {
+      "author": "Kilo",
+      "name": "Life Support Pack",
+      "steamId": "3530278586",
+      "version": null
+    },
+    {
+      "author": "cedaro",
+      "name": "Lower Prisoner Expectation",
+      "steamId": "2946828912",
+      "version": null
+    },
+    {
+      "author": "MajesticMadman",
+      "name": "Madman's Star Wars Ships (SRTS)",
+      "steamId": "2753756105",
+      "version": null
+    },
+    {
+      "author": "Leoltron",
+      "name": "Max Buy, Max Sell",
+      "steamId": "2889812094",
+      "version": "1.5.1"
+    },
+    {
+      "author": "Deadbeat",
+      "name": "Medical Cabinet",
+      "steamId": "3530475266",
+      "version": null
+    },
+    {
+      "author": "sumghai",
+      "name": "MedPod",
+      "steamId": "2153065191",
+      "version": "1.6.6"
+    },
+    {
+      "author": "NotFood",
+      "name": "MendAndRecycle",
+      "steamId": "3226161877",
+      "version": null
+    },
+    {
+      "author": "erdelf",
+      "name": "MinifyEverything",
+      "steamId": "872762753",
+      "version": null
+    },
+    {
+      "author": "kaitorisenkou",
+      "name": "ModularWeapons 2",
+      "steamId": "3497834944",
+      "version": null
+    },
+    {
+      "author": "Unon",
+      "name": "No Burn Metal",
+      "steamId": "1923990111",
       "version": null
     },
     {
@@ -63,9 +465,477 @@
       "version": null
     },
     {
+      "author": "Teiwaz",
+      "name": "Odyssey Orbital Trader",
+      "steamId": "3522859265",
+      "version": null
+    },
+    {
+      "author": "EvilToaster",
+      "name": "Odyssey Transport Shuttle",
+      "steamId": "3525851843",
+      "version": null
+    },
+    {
+      "author": "quantumsandwich",
+      "name": "Odyssey: More Doors",
+      "steamId": "3530735491",
+      "version": null
+    },
+    {
+      "author": "Ogre",
+      "name": "OgreStack",
+      "steamId": "1447140290",
+      "version": null
+    },
+    {
+      "author": "lioness131.smallmine",
+      "name": "Orca Shuttle",
+      "steamId": "3528001139",
+      "version": null
+    },
+    {
+      "author": "Neronix17",
+      "name": "Outer Rim - Core",
+      "steamId": "2919227155",
+      "version": null
+    },
+    {
+      "author": "Neronix17",
+      "name": "Outer Rim - Galactic Empire",
+      "steamId": "2919248699",
+      "version": null
+    },
+    {
+      "author": "Neronix17",
+      "name": "Outer Rim - Rebel Alliance",
+      "steamId": "2919249903",
+      "version": null
+    },
+    {
+      "author": "Mehni",
+      "name": "Pick Up And Haul",
+      "steamId": "1279012058",
+      "version": null
+    },
+    {
+      "author": "NobodyImportant",
+      "name": "Pringles in a Can",
+      "steamId": "2877205660",
+      "version": null
+    },
+    {
+      "author": "Avius, Hazzer",
+      "name": "Prison Labor",
+      "steamId": "1899474310",
+      "version": null
+    },
+    {
+      "author": "GassyTaco.kotobike",
+      "name": "Prisoner Harvesting 1.5",
+      "steamId": "3347850851",
+      "version": null
+    },
+    {
+      "author": "divineDerivative",
+      "name": "Prisoners Can Read",
+      "steamId": "3409290110",
+      "version": null
+    },
+    {
+      "author": "Mlie",
+      "name": "Prisoners Should Fear Turrets",
+      "steamId": "2602436826",
+      "version": "1.6.0"
+    },
+    {
+      "author": "Rah",
+      "name": "RBSE",
+      "steamId": "850429707",
+      "version": null
+    },
+    {
+      "author": "Uuugggg",
+      "name": "Replace Stuff - Continued",
+      "steamId": "3526354009",
+      "version": null
+    },
+    {
+      "author": "InfinitySamurai",
+      "name": "RimConnect",
+      "steamId": "1880784338",
+      "version": null
+    },
+    {
+      "author": "Jaxe",
+      "name": "RimHUD",
+      "steamId": "1508850027",
+      "version": null
+    },
+    {
+      "author": "aRandomKiwi",
+      "name": "RimSaves",
+      "steamId": "1713367505",
+      "version": null
+    },
+    {
+      "author": "Deon",
+      "name": "RimTek Core",
+      "steamId": "3500429104",
+      "version": null
+    },
+    {
+      "author": "Deon",
+      "name": "RimTek DigiPal",
+      "steamId": "3500443258",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Royalty",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Sandy",
+      "name": "RPG Style Inventory Revamped",
+      "steamId": "2478833213",
+      "version": null
+    },
+    {
+      "author": "Roolo, Updated by Ogliss, kotobike",
+      "name": "RunAndGun",
+      "steamId": "3523879860",
+      "version": null
+    },
+    {
+      "author": "MemeGoddess",
+      "name": "Search and Destroy (Continued)",
+      "steamId": "3232242247",
+      "version": null
+    },
+    {
+      "author": "PeteTimesSix",
+      "name": "Simple sidearms",
+      "steamId": "927155256",
+      "version": null
+    },
+    {
+      "author": "Owlchemist",
+      "name": "Smart Farming",
+      "steamId": "3220129183",
+      "version": null
+    },
+    {
+      "author": "Uuugggg",
+      "name": "Smart Medicine - Continued",
+      "steamId": "3526251680",
+      "version": null
+    },
+    {
+      "author": "Sarg Bjornson",
+      "name": "Smart Odyssey",
+      "steamId": "3522762411",
+      "version": null
+    },
+    {
+      "author": "Sarg",
+      "name": "Smart Speed",
+      "steamId": "1504723424",
+      "version": null
+    },
+    {
+      "author": "denev",
+      "name": "Smart Turret Covering",
+      "steamId": "2636621800",
+      "version": null
+    },
+    {
+      "author": "dhultgren",
+      "name": "Smarter Construction",
+      "steamId": "2202185773",
+      "version": null
+    },
+    {
+      "author": "legodude17",
+      "name": "Smarter Deconstruction and Mining (Continued)",
+      "steamId": "3261302741",
+      "version": "1.6.0"
+    },
+    {
+      "author": "Weilbyte",
+      "name": "Snap Out!",
+      "steamId": "1319782555",
+      "version": null
+    },
+    {
+      "author": "Krelinos",
+      "name": "Social Experience from Trade",
+      "steamId": "3400608063",
+      "version": null
+    },
+    {
+      "author": "LTS",
+      "name": "Spacer Shields 1.6",
+      "steamId": "3536995307",
+      "version": null
+    },
+    {
+      "author": "Smash Phil,  Neceros,  Shashlichnik (Шашлычник ;р)",
+      "name": "SRTS Expanded (continued)",
+      "steamId": "2938738526",
+      "version": null
+    },
+    {
+      "author": "Xen, Jecrell",
+      "name": "Star Wars - Factions (Continued)",
+      "steamId": "3544900066",
+      "version": "1.6.1"
+    },
+    {
+      "author": "Leongotto,  Lady Elizabeth",
+      "name": "Star Wars - First Order Faction",
+      "steamId": "2395173388",
+      "version": null
+    },
+    {
+      "author": "Leongotto",
+      "name": "Star Wars - Gungan Faction",
+      "steamId": "2690655598",
+      "version": null
+    },
+    {
+      "author": "Lee",
+      "name": "Star Wars - KoTOR to Outer Rim Intergration Patch",
+      "steamId": "3265479858",
+      "version": null
+    },
+    {
+      "author": "Xen, Jecrell",
+      "name": "Star Wars - The Force (Continued)",
+      "steamId": "3539405590",
+      "version": "1.6.3"
+    },
+    {
+      "author": "Lee",
+      "name": "Star Wars : The Force - Lightsaber",
+      "steamId": "3466124712",
+      "version": null
+    },
+    {
+      "author": "Lee",
+      "name": "Star Wars : The Force-Psycast",
+      "steamId": "3100942433",
+      "version": null
+    },
+    {
+      "author": "Kamiki",
+      "name": "Star Wars : The Force-Psycast CHS",
+      "steamId": "3334886312",
+      "version": null
+    },
+    {
+      "author": "Beasstmann",
+      "name": "Star Wars Animal Collection (Continued)",
+      "steamId": "3497316713",
+      "version": "1.6.4"
+    },
+    {
+      "author": "bazoka81",
+      "name": "Star Wars Dub's Hygiene Stuff",
+      "steamId": "3371695380",
+      "version": null
+    },
+    {
+      "author": "guy762",
+      "name": "Star Wars KotOR Droids",
+      "steamId": "3047371944",
+      "version": null
+    },
+    {
+      "author": "guy762,  Lee,  Kaitorisenkou,  Ranger Rick",
+      "name": "Star Wars KotOR Factions",
+      "steamId": "3379096669",
+      "version": null
+    },
+    {
+      "author": "guy762,  MajesticMadman,  Kaitorisenkou,  Lee, , Ranger Rick",
+      "name": "Star Wars KotOR Resources and Materials",
+      "steamId": "3254370945",
+      "version": null
+    },
+    {
+      "author": "guy762",
+      "name": "Star Wars KotOR Weapons and Armor",
+      "steamId": "2938932438",
+      "version": null
+    },
+    {
+      "author": "Lumi",
+      "name": "Star Wars Lights",
+      "steamId": "2265746202",
+      "version": null
+    },
+    {
+      "author": "Zaljerem",
+      "name": "Star Wars Republic Equipment (Continued)",
+      "steamId": "2960653353",
+      "version": "1.0.2"
+    },
+    {
+      "author": "Lee",
+      "name": "Star Wars Retheme: Vanilla Factions Expanded - Deserters",
+      "steamId": "3292632862",
+      "version": null
+    },
+    {
+      "author": "Lee",
+      "name": "Star Wars Retheme: Vanilla Factions Expanded - Empire",
+      "steamId": "3292633931",
+      "version": null
+    },
+    {
+      "author": "guy762,  Sovereign, , Kaitorisenkou",
+      "name": "Star Wars Xenotypes",
+      "steamId": "2915192253",
+      "version": null
+    },
+    {
+      "author": "Bambaryla",
+      "name": "Star Wars Xenotypes Faction Integration Patches",
+      "steamId": "3020805614",
+      "version": null
+    },
+    {
+      "author": "Neronix17",
+      "name": "Tabula Rasa",
+      "steamId": "1660622094",
+      "version": null
+    },
+    {
+      "author": "Shenanigans",
+      "name": "Tech Tattoos",
+      "steamId": "2789726696",
+      "version": null
+    },
+    {
+      "author": "Sam",
+      "name": "Tilled Soil",
+      "steamId": "725747149",
+      "version": null
+    },
+    {
+      "author": "Hob Took",
+      "name": "Trade UI Revised",
+      "steamId": "2683622537",
+      "version": null
+    },
+    {
+      "author": "AUTOMATIC",
+      "name": "Trader ships",
+      "steamId": "2046222331",
+      "version": null
+    },
+    {
+      "author": "Carny Senpai",
+      "name": "Trait Rarity Colors",
+      "steamId": "1751884355",
+      "version": null
+    },
+    {
+      "author": "Side1iner",
+      "name": "Traits Plus",
+      "steamId": "2564461841",
+      "version": null
+    },
+    {
+      "author": "Neronix17",
+      "name": "Tweaks Galore",
+      "steamId": "2695164414",
+      "version": null
+    },
+    {
+      "author": "RemingtonRyder",
+      "name": "Ugh You Got Me",
+      "steamId": "1542424705",
+      "version": null
+    },
+    {
+      "author": "Ushanka",
+      "name": "Ushankas Hacking Expansion",
+      "steamId": "3573344880",
+      "version": null
+    },
+    {
+      "author": "Nephlite,  Maxim,  Viceroy",
+      "name": "Utility Columns",
+      "steamId": "2013476665",
+      "version": null
+    },
+    {
+      "author": "Kilo",
+      "name": "VacSlipsuit",
+      "steamId": "3536829054",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson,  Erdelf",
+      "name": "Vanilla Expanded Framework",
+      "steamId": "2023507013",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  legodude17",
+      "name": "Vanilla Factions Expanded - Deserters",
+      "steamId": "3025493377",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  legodude17,  Allie",
+      "name": "Vanilla Factions Expanded - Empire",
+      "steamId": "2938820380",
+      "version": null
+    },
+    {
+      "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van,  Reann Shepard",
+      "name": "Vanilla Psycasts Expanded",
+      "steamId": "2842502659",
+      "version": null
+    },
+    {
+      "author": "Xercaine",
+      "name": "Wall Heater",
+      "steamId": "3286518227",
+      "version": null
+    },
+    {
+      "author": "BuhGunGer",
+      "name": "Wall Mounted Firefoam",
+      "steamId": "3452778089",
+      "version": null
+    },
+    {
+      "author": "Honey Badger (MrBadgi)",
+      "name": "Wall Mounted Turrets Version 2",
+      "steamId": "3525168205",
+      "version": null
+    },
+    {
+      "author": "Sergkart",
+      "name": "WVC - Work Modes",
+      "steamId": "2888380373",
+      "version": "1.1.7"
+    },
+    {
+      "author": "Imranfish",
+      "name": "XML Extensions",
+      "steamId": "2574315206",
+      "version": null
+    },
+    {
+      "author": "YAYO,  Soky",
+      "name": "Yayo's Animation (Continued)",
+      "steamId": "2877292196",
       "version": null
     }
   ]
