@@ -1,0 +1,122 @@
+{
+  "total": 13,
+  "viewers": [
+    {
+      "username": "eldritch_blight",
+      "karma": 200,
+      "coins": 1432,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "821936210"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 200,
+      "coins": 3356,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    },
+    {
+      "username": "lumiastream",
+      "karma": 200,
+      "coins": 1580,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "605116711"
+      }
+    },
+    {
+      "username": "professionalheckler",
+      "karma": 200,
+      "coins": 9448,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "158671515"
+      }
+    },
+    {
+      "username": "thrall_owen",
+      "karma": 200,
+      "coins": 3376,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "106299573"
+      }
+    },
+    {
+      "username": "yagerhammerhand",
+      "karma": 200,
+      "coins": 6340,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "25161902"
+      }
+    },
+    {
+      "username": "cmdrellyll",
+      "karma": 200,
+      "coins": 5380,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "85829556"
+      }
+    },
+    {
+      "username": "fossabot",
+      "karma": 200,
+      "coins": 8980,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "237719657"
+      }
+    },
+    {
+      "username": "brianwilmr1",
+      "karma": 200,
+      "coins": 1850,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1487796725"
+      }
+    },
+    {
+      "username": "rygger_dracora",
+      "karma": 200,
+      "coins": 1430,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "105869346"
+      }
+    },
+    {
+      "username": "inarikitsune1",
+      "karma": 200,
+      "coins": 3060,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "99021852"
+      }
+    },
+    {
+      "username": "pokekick",
+      "karma": 200,
+      "coins": 1920,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "27862378"
+      }
+    },
+    {
+      "username": "drswadow",
+      "karma": 200,
+      "coins": 1430,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "46398920"
+      }
+    }
+  ]
+}
